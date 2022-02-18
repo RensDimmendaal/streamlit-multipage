@@ -22,7 +22,7 @@ The datastoryteller app is is really nice. But it's also *a lot*. I wanted to cr
 
 ## Demo
 
-*todo*
+https://user-images.githubusercontent.com/9828683/154668077-aafd743d-6222-4a73-9790-b6b7be0b8831.mp4
 
 ## Usage instructions
 
