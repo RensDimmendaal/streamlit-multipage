@@ -5,8 +5,8 @@
 
 There's multiple ways to create a multipage streamlit app.
 
-I tried out the approach from Prakhar Rathi in this [article](https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030).
-They also made an elaborate example with their [data storyteller app](https://github.com/prakharrathi25/data-storyteller).
+I liked the approach by Prakhar Rathi in this [article](https://towardsdatascience.com/creating-multipage-applications-using-streamlit-efficiently-b58a58134030).
+They also made a nice example with their [data storyteller app](https://github.com/prakharrathi25/data-storyteller).
 
 ## Motivation
 
